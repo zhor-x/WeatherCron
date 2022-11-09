@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Yerevan",
+        "latitude": "40.1814",
+        "longitude": "44.5144"
+    },
+    {
+        "name": "Gyumri",
+        "latitude": "40.7833",
+        "longitude": "43.8333"
+    },
+    {
+        "name": "Vanadzor",
+        "latitude": "40.8128",
+        "longitude": "44.4883"
+    },
+    {
+        "name": "Ejmiatsin",
+        "latitude": "40.1728",
+        "longitude": "44.2925"
+    },
+    {
+        "name": "Hrazdan",
+        "latitude": "40.5000",
+        "longitude": "44.7667"
+    },
+    {
+        "name": "Abovyan",
+        "latitude": "40.2739",
+        "longitude": "44.6256"
+    },
+    {
+        "name": "Kapan",
+        "latitude": "39.2011",
+        "longitude": "46.4150"
+    },
+    {
+        "name": "Armavir",
+        "latitude": "40.1500",
+        "longitude": "44.0400"
+    },
+    {
+        "name": "Charentsavan",
+        "latitude": "40.4097",
+        "longitude": "44.6431"
+    },
+    {
+        "name": "Stepanavan",
+        "latitude": "41.0075",
+        "longitude": "44.3867"
+    },
+    {
+        "name": "Sevan",
+        "latitude": "40.5550",
+        "longitude": "44.9536"
+    },
+    {
+        "name": "Ashtarak",
+        "latitude": "40.3000",
+        "longitude": "44.4000"
+    },
+    {
+        "name": "Artashat",
+        "latitude": "39.9539",
+        "longitude": "44.5506"
+    },
+    {
+        "name": "Ararat",
+        "latitude": "39.8094",
+        "longitude": "44.7144"
+    },
+    {
+        "name": "Gavarr",
+        "latitude": "40.3667",
+        "longitude": "45.1333"
+    },
+    {
+        "name": "Goris",
+        "latitude": "39.5111",
+        "longitude": "46.3417"
+    }
+]
